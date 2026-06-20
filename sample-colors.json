@@ -1,0 +1,11 @@
+{
+  "depends": "#ff6b6b",
+  "build-depends": "#4ecdc4",
+  "recommends": "#45b7d1",
+  "suggests": "#f9ca24",
+  "conflicts": "#6c5ce7",
+  "root": "#00d2d3",
+  "missing": "#dfe6e9",
+  "node": "#ffffff",
+  "edge": "#b2bec3"
+}
